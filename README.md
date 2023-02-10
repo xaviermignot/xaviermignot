@@ -7,4 +7,4 @@ I'm an Azure technical guy who has just moved from France to Montréal, QC. My p
 - My recent side projects were focused on IaC (Terraform and Bicep) and CI/CD stuff, I would like to get back to the IoT and _real_ coding business 🤓
 - 🌱 I also would like to spend more time learing K8S, and give a shot to gRPS APIs.
 - 💬 Ask me about anything regarding Azure IoT, IaC or Azure PaaS services
-- 📫 How to reach me: [@_xavierm](https://twitter.com/_xavierm) on twitter
+- 📫 How to reach me: [@_xavierm](https://twitter.com/_xavierm) on twitter or <a rel="me" href="https://hachyderm.io/@xavierm">@xavierm</a> on Mastodon
